@@ -1,0 +1,25 @@
+{
+  "name": "geo-dist-calc",
+  "version": "1.0.0",
+  "description": "calculate distance between two geolocation points i.e lat,long distance calculation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "distance",
+    "calculation",
+    "geolocation",
+    "distance",
+    "calculation",
+    "lat",
+    "long",
+    "distance",
+    "between",
+    "points",
+    "geolocation",
+    "calculations"
+  ],
+  "author": "Parit Sharma",
+  "license": "ISC"
+}
