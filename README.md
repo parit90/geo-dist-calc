@@ -1,6 +1,5 @@
 # geo-dist-calc
 
-[![NPM](https://nodei.co/npm/gps-distance.png)](https://nodei.co/npm/gps-distance/)
 
  * CreatedOn- 07/06/2016
  * 1.sourcePoints is an object containing latitude,longitude of a one point(start point).
