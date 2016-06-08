@@ -1,6 +1,6 @@
 {
   "name": "geo-dist-calc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "calculates distance between two geocoordinates i.e latitude,longitude distance calculation.",
   "main": "lib/discal.js",
   "scripts": {
