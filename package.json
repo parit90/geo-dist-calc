@@ -2,9 +2,13 @@
   "name": "geo-dist-calc",
   "version": "1.0.3",
   "description": "calculates distance between two geocoordinates i.e latitude,longitude distance calculation.",
-  "main": "index.js",
+  "main": "lib/discal.js",
   "scripts": {
     "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parit90/geo-dist-calc.git"
   },
   "keywords": [
     "distance",
